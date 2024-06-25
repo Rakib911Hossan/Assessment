@@ -13,6 +13,7 @@ int main() {
 
   // prints sum
   cout << first_number << " + " <<  second_number << " = " << sum;
+  for (int x : caps) cout << x << endl;
 
   return 0;
 }
