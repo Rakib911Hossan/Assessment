@@ -12,8 +12,12 @@ int main() {
 // product of two numbers in stored in variable sumOfTwoNumbers
   sum = first_number *  second_number;
 
-  // prints sum
-  cout << first_number << " x " <<  second_number << " = " << sum;
+
+  // shanto intervenes
+  cout << first_number << " + " <<  second_number << " = " << sum;
+
 
   return 0;
 }
+
+//a first change
