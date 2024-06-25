@@ -11,8 +11,10 @@ int main() {
   // sum of two numbers in stored in variable sumOfTwoNumbers
   sum = first_number + second_number;
 
-  // prints sum
+  // shanto intervenes
   cout << first_number << " + " <<  second_number << " = " << sum;
 
   return 0;
 }
+
+//a first change
