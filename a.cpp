@@ -10,9 +10,7 @@ int main() {
 
   // sum of two numbers in stored in variable sumOfTwoNumbers
   sum = first_number + second_number;
-
-  for (int cap : caps) cout << cap << endl;
-  // prints sum
   cout << first_number << " + " <<  second_number << " = " << sum;
+
   return 0;
 }
