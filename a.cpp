@@ -14,6 +14,5 @@ int main() {
   for (int cap : caps) cout << cap << endl;
   // prints sum
   cout << first_number << " + " <<  second_number << " = " << sum;
-
   return 0;
 }
